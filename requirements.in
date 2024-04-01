@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pip-tools  # For managing requirements
+black       # Code formatter
+flake8      # Code linter
